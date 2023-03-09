@@ -10,7 +10,7 @@
 
 
 **makefile详细语法介绍**
-位于“~/script_file/makefile”文件夹readme中；
+>位于“~/script_file/makefile”文件夹readme中；
 
 ## 2.shell脚本
 **shell是什么？**
