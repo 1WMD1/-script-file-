@@ -163,7 +163,7 @@ make -f makefile.linux
 
 基本语法规则：
 
-![image-20230310110255519](${media}/image-20230310110255519.png)
+![image](https://github.com/1WMD1/script_file/blob/master/makefile/png/image-20230310110255519.png)
 
 * target：需要生成的目标文件
 * prerequisites：生成该 target 所依赖的一些文件
@@ -197,7 +197,7 @@ $ gcc main.c -o main
 
 目标生成流程，如下：
 
-![image-20230310111353906](${media}/image-20230310111353906.png)
+![image](https://github.com/1WMD1/script_file/blob/master/makefile/png/image-20230310111353906.png)
 
 * 目标更新：
 
@@ -206,7 +206,7 @@ $ gcc main.c -o main
 
 目标更新流程，如下：
 
-![image-20230310111817321](${media}/image-20230310111817321.png)
+![image](https://github.com/1WMD1/script_file/blob/master/makefile/png/image-20230310111817321.png)
 
 我们使用上面的例子，Makefile 内容如下：
 
