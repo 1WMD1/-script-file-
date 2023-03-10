@@ -1,4 +1,4 @@
-* 问题反馈交流区 https://github.com/100askTeam/Stage1_D1s-Applications/discussions/
+
 # 1.Makefile简述
 
 ## 1.1 为什么需要Makefile
